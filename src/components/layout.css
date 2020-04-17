@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+.bg-theme {
+  background-color: #0e2d48;
+}
+.cart-icon {
+  font-size: 2rem;
+}
+.hero-bg {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.about-bg {
+  min-height: 35vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#about-heading {
+  color: white;
+}
+
+#home-heading {
+  color: white;
+}
+
+#services-heading {
+  color: white;
+}
+
+#our-team {
+  margin: 2rem 0 0;
+}
